@@ -1,0 +1,16 @@
+setup.py
+animenewsnetwork/__init__.py
+animenewsnetwork/items.py
+animenewsnetwork/middlewares.py
+animenewsnetwork/pipelines.py
+animenewsnetwork/settings.py
+animenewsnetwork/spiders/__init__.py
+animenewsnetwork/spiders/a_spider.py
+animenewsnetwork/utils/__init__.py
+animenewsnetwork/utils/filter_html.py
+animenewsnetwork/utils/get_date.py
+project.egg-info/PKG-INFO
+project.egg-info/SOURCES.txt
+project.egg-info/dependency_links.txt
+project.egg-info/entry_points.txt
+project.egg-info/top_level.txt
