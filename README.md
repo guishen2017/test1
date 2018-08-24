@@ -6,3 +6,4 @@
 * [x] https://www.japanator.com/
 ## 爬取字段
 * spider_name
+* title
